@@ -1,2 +1,2 @@
-# homework-six-orgaization-issues
+# homework-six-organization-issues
 here are my original files for this assignment
